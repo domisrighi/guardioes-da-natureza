@@ -2,7 +2,7 @@
 
 ## Sobre
 
-Introduzir conceitos básicos de preservação ambiental de forma lúdica e educativa.
+Jogo de aventura e educação ambiental, onde o jogador protege a floresta e seus animais de caçadores impiedosos. Através de desafios lúdicos, os jogadores aprendem sobre preservação ambiental, combate à caça ilegal e conservação da biodiversidade, promovendo práticas sustentáveis e conscientização ecológica.
 
 ## Progresso
 
@@ -16,10 +16,11 @@ Em andamento.
 
 ## Controles do Jogo
 
-- **Tecla W:** Avançar
-- **Tecla S:** Recuar
-- **Tecla A:** Mover para a esquerda
-- **Tecla D:** Mover para a direita
+- **Tecla W & Setinha para Cima:** Avançar
+- **Tecla A & Setinha para Esquerda:** Mover para a esquerda
+- **Tecla D & Setinha para Direita:** Mover para a direita
+- **Botão Esquerdo do Mouse:** Atirar
+
 
 ## Jogue Online
 
